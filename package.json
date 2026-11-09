@@ -1,0 +1,17 @@
+{
+  "name": "api-tareas",
+  "version": "1.0.0",
+  "description": "API RESTful de tareas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Claudia Yered Gomez Lizama",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "body-parser": "^2.4.0",
+    "express": "^5.3.0",
+    "jsonwebtoken": "^9.0.3"
+  }
+}
